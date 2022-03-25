@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**PaulJoych/Pauljoych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Sofware Enginer working in Yogyakarta, Indonesia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Kullo Labs](https://github.com/KulloLabs) github;
+
+##### BIO
+
+- 🏢 I'm currently Creating **Kullo Labs**
+- ⚙️ I use daily: `.sol`, `.ts`, `.js`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Web3 Community**
+- 🌱 Learning all about **Open Source** and **Blockchain**
+- 💬 Ping me about **Smart Contract**, **Web3**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/pauljoych](https://twitter.com/pauljoych)
