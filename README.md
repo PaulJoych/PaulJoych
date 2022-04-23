@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Kullo Labs](https://github.com/KulloLabs) github;
+- ✨ Crafted [Kullo Labs](https://github.com/KulloLabs);
 
 ##### BIO
 
