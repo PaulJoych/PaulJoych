@@ -9,8 +9,7 @@
 ##### BIO
 
 - 🏢 I'm currently Creating **Kullo Labs**
-- ⚙️ I use daily: `.sol`, `.ts`, `.js`, `.html`, `.css`, `.cpp`
-- 🌍 I'm mostly active within the **Web3 Community**
-- 🌱 Learning all about **Open Source** and **Blockchain**
-- 💬 Ping me about **Smart Contract**, **Web3**, **Development**, **Design thinking**
+- ⚙️ I use daily: `.lua`, `.ts`, `.js`, `.html`, `.css`, `.cpp`
+- 🌍 I'm mostly active within the **Fivem Community**
+- 💬 Ping me about **FiveM**
 - 📫 Reach me: [twitter.com/pauljoych](https://twitter.com/pauljoych)
