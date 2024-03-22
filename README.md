@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Sofware Enginer working in Yogyakarta, Indonesia.
+#### I'm a Sofware Enginer.
 
 ##### NOW
 
